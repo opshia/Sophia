@@ -1,0 +1,421 @@
+#one{
+    
+    
+    
+    font-size: 15px;
+    border-bottom: 2px solid red;
+    width:60px
+        
+    
+}
+
+#two{
+    
+    
+    margin-left:45px;
+    padding-bottom:0px;
+    padding-left: 0px;
+    font-size: 20px;
+    border-bottom: 2px solid red;
+    width:60px
+    
+    
+    
+}
+
+#three{
+    
+    margin-left:80px;
+    font-size: 25px;
+    border-bottom: 2px solid red;
+    width:70px;
+    
+    
+}
+
+
+#four{
+    
+    margin-left:130px;
+    font-size: 25px;
+    border-bottom: 2px solid red;
+    width:90px;
+    
+    
+}
+
+#five{
+    
+    margin-left:200px;
+    font-size: 30px;
+    border-bottom: 2px solid red;
+    width:100px;
+  
+    
+}
+
+#six{
+    
+    margin-left:280px;
+    font-size: 35px;
+    border-bottom: 2px solid red;
+    width:100px;
+    
+    
+}
+
+#seven{
+    
+    margin-left:360px;
+    font-size: 40px;
+    border-bottom: 2px solid red;
+    width:100px;
+    
+    
+    
+    
+}
+
+
+#eight{
+    
+    margin-left:410px;
+    font-size: 45px;
+    border-bottom: 2px solid red;
+    width:240px;
+  
+    
+}
+
+
+#nine{
+    
+    font-family:fantasy;
+    display: inline-block;
+    margin-left:310px;
+    padding-left: 70px;
+    padding-top: 120px;
+    font-size: 110px;
+    border: 8px solid red ; 
+    height:250px;
+    width:650px; 
+    border-style:dotted;
+    font-weight:bolder;
+    
+    
+}
+
+#bigcircle{
+    
+    font-size: 1500px;
+    margin-top:-550px;
+    margin-left:420px;
+    display:inline-block;
+    margin-bottom: 0px;
+     
+}
+
+
+#small{
+    
+    font-size: 650px;
+    margin-top: -430px;
+    position:absolute;
+    top:1450px;
+    
+   
+    margin-left:350px;
+    margin-right:0px;
+    display:inline-block;
+    margin-bottom: 0px;
+      
+    
+}
+
+#small2{
+    
+    font-size: 650px;
+    margin-top: -430px;
+    position:absolute;
+    top:1450px;
+    margin-left:785px;
+    margin-right:0px;
+    display:inline-block;
+    margin-bottom: 0px;
+      
+     
+   
+}
+
+
+#was{
+    
+    margin-left:610px;
+    font-size: 50px;
+    border-bottom: 2px solid red;
+    width:240px;
+    position:absolute;
+    top:2000px;
+    
+ 
+}
+
+
+#a{
+    
+    margin-left:690px;
+    font-size: 55px;
+    border-bottom: 2px solid red;
+    width:240px;
+    position:absolute;
+    top:2100px; 
+    
+    
+    
+    
+}
+
+
+#manic{
+    
+    margin-left:740px;
+    font-size: 60px;
+    border-bottom: 2px solid red;
+    width:240px;
+    position:absolute;
+    top:2200px; 
+    
+   
+}
+
+
+#depressive{
+    
+    margin-left:870px;
+    font-size: 65px;
+    border-bottom: 2px solid red;
+    width:360px;
+    position:absolute;
+    top:2300px; 
+    
+     
+}
+
+
+
+#ten{
+    
+    font-family:fantasy;
+    display: inline-block;
+    margin-left:220px;
+    padding-left: 70px;
+    padding-top: 120px;
+    font-size: 40px;
+    border: 8px solid red; 
+    height:190px;
+    width:840px; 
+    border-style:groove;
+    font-weight:bolder;
+    
+   
+}
+
+
+
+#r{
+    
+    margin-left:1200px;
+    font-size: 70px;
+    border-bottom: 5px solid red;
+    width:360px;
+    position:absolute;
+    top:3300px; 
+    
+   
+}
+
+
+#wa{
+    
+    margin-left:1450px;
+    font-size: 70px;
+    border-bottom: 5px solid red;
+    width:300px;
+    position:absolute;
+    top:3450px;  
+     
+  
+}
+
+       
+#di{
+    
+    margin-left:1600px;
+    font-size: 75px;
+    border-bottom: 5px solid red;
+    width:360px;
+    position:absolute;
+    top:3600px;  
+    
+    
+}
+
+
+#w{
+    
+    margin-left:1800px;
+    font-size: 80px;
+    border-bottom: 5px solid red;
+    width:360px;
+    position:absolute;
+    top:3750px;  
+         
+}
+
+
+#aa{
+    
+    margin-left:1900px;
+    font-size: 85px;
+    border-bottom: 5px solid red;
+    width:310px;
+    position:absolute;
+    top:3900px;  
+           
+}
+
+
+#m{
+   
+    margin-left:1950px;
+    font-size: 90px;
+    border-bottom: 5px solid red;
+    width:320px;
+    position:absolute;
+    top:4050px;  
+             
+}
+
+
+#d{
+    
+    margin-left:2150px;
+    font-size: 95px;
+    border-bottom: 5px solid red;
+    width:450px;
+    position:absolute;
+    top:4200px;  
+                
+}
+
+
+
+
+
+#down{
+    
+    position:absolute;
+    top:5000px;
+    margin-left:580px; 
+    font-size:220px;
+    
+ 
+}
+
+
+#right{
+    
+    position:absolute;
+    top:5400px;
+    margin-left:100px; 
+    font-size:220px;
+    
+    
+    
+}
+
+
+#circle3{
+    
+    font-size: 1500px;
+    position:absolute;
+    top:3600px;
+    margin-left:450px;  
+    
+    
+}
+
+
+#circle1{
+    
+    font-size: 650px;
+    position:absolute;
+    top:4720px;
+    margin-left:400px;  
+    margin-bottom:0px;
+    padding-bottom:0px;
+    
+    
+    
+}
+
+#circle2{
+    
+    font-size: 650px;
+    position:absolute;
+    top:5360px;
+    margin-left:790px;  
+   
+      
+
+}
+
+
+#left{
+    
+    position:absolute;
+    top:5400px;
+    margin-left:1100px; 
+    font-size:220px;
+   
+    
+}
+
+#result{
+    
+    position:absolute;
+    top:6300px;
+    margin-left:1200px; 
+    font-size:80px;
+    
+}
+
+
+
+
+
+
+
+#back{
+    
+    position:absolute;
+    top:6790px;
+    margin-left: -1150px;
+    font-size:30px;
+    
+    
+}
+
+
+#next{
+    
+    position:absolute;
+    top:6790px;
+    margin-left: -20px;
+    font-size:30px;
+    
+    
+    
+}
+
+

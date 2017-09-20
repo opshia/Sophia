@@ -1,0 +1,485 @@
+#title{
+    
+    text-align: center;
+    font-size:80px;
+    font-family:monospace;
+    
+
+}
+
+
+#author{
+    
+    text-align: center;
+    font-size:60px;
+    font-family:monospace;
+  
+    
+}
+
+
+
+
+
+
+.squarefront{
+    
+    font-size:800px;
+    color:skyblue;
+    position:absolute;
+    top:450px;
+    margin-top: 0px;
+    
+}
+
+.squarefront1{
+    
+    font-size:800px;
+    color:deepskyblue;
+    position:absolute;
+    top:450px;
+    margin-top: 0px;
+    margin-left:850px;
+    
+}
+
+
+.squarefront2{
+    
+    font-size:800px;
+    color:dodgerblue;
+    position:absolute;
+    top:450px;
+    margin-top: 0px;
+    margin-left:1700px;
+    
+}
+
+
+.squarefront3{
+    
+    font-size:800px;
+    color:royalblue;
+    position:absolute;
+    top:1850px;
+   
+    margin-left:450px;
+   padding-bottom:-500px;
+}
+
+.squarefront4{
+    
+    font-size:800px;
+    color:mediumblue;
+    position:absolute;
+    top:1850px;
+    margin-left:1350px;
+    padding-bottom:-500px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.squareback{
+    
+    font-size:1950px;
+    color:skyblue;
+    position:absolute;
+    top:250px;
+    margin-top: 0px;
+    margin-left:-150px;   
+   
+}
+
+
+
+
+.squareback1{
+    
+    font-size:1950px;
+    color:deepskyblue;
+    position:absolute;
+    top:250px;
+    margin-top: 0px;
+    margin-left:700px;   
+   
+}
+
+.squareback2{
+    
+    font-size:1950px;
+    color:dodgerblue;
+    position:absolute;
+    top:250px;
+    margin-top: 0px;
+    margin-left:1550px;   
+   
+}
+
+
+.squareback3{
+    
+    font-size:1950px;
+    color:royalblue;
+    position:absolute;
+    top:1650px;
+    margin-left:300px;
+   
+    
+}
+
+.squareback4{
+    
+    font-size:1950px;
+    color:mediumblue;
+    position:absolute;
+    top:1650px;
+    margin-left:1200px;
+   
+    
+}
+
+
+a{
+    font-size:30px;
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+#one{
+    
+     font-size:200px;
+     color:white;
+     position:absolute;
+     top:750px;
+     margin-left:290px;
+     font-family:monospace;
+    
+    
+    
+}
+
+
+#two{
+    
+     font-size:200px;
+     color:white;
+     position:absolute;
+     top:750px;
+     margin-left:1120px;
+     font-family:monospace;
+    
+ 
+}
+
+#three{
+    
+     font-size:200px;
+     color:white;
+     position:absolute;
+     top:750px;
+     margin-left:1990px;
+     font-family:monospace;
+    
+   
+}
+
+#four{
+    
+     font-size:200px;
+     color:white;
+     position:absolute;
+     top:2150px;
+     margin-left:740px;
+     font-family:monospace;
+    
+   
+}
+
+#five{
+    
+     font-size:200px;
+     color:white;
+     position:absolute;
+     top:2150px;
+     margin-left:1640px;
+     font-family:monospace;
+    
+   
+}
+
+
+
+
+
+
+
+
+
+#numberone{
+    
+    font-size:35px;
+     color:white;
+     position:absolute;
+     top:1400px;
+     margin-left:120px;  
+     font-family:monospace;   
+    
+}
+
+
+#numbertwo{
+    
+    font-size:35px;
+     color:white;
+     position:absolute;
+     top:1400px;
+     margin-left:370px;  
+     font-family:monospace;   
+    
+}
+
+
+
+#numberthree{
+    
+    font-size:35px;
+     color:white;
+     position:absolute;
+     top:1400px;
+     margin-left:1850px;  
+     font-family:monospace;   
+    
+}
+
+
+#numberfour{
+    
+    font-size:35px;
+     color:white;
+     position:absolute;
+     top:2890px;
+     margin-left:580px;
+     font-family:monospace;   
+    
+}
+
+
+
+#numberfive{
+    
+    font-size:30px;
+     color:white;
+     position:absolute;
+     top:2790px;
+     margin-left:1480px;
+     font-family:monospace;   
+    
+}
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+@keyframes twirl{
+    
+    0%{transform: rotateY(0deg)}
+    100%{transform: rotateY(90deg)}
+    
+}
+
+
+
+
+
+
+
+
+
+
+.squareback{
+    
+    transform:rotateY(90deg);
+
+}
+
+
+.squarefront{
+   
+    position: absolute;
+    
+    
+}
+
+.cards ul:hover div.squarefront{
+    
+     animation:twirl 0.1s ease-in forwards;
+    
+    
+}
+
+
+
+
+.cards ul:hover div.squareback{
+    
+    animation:twirl 0.1s 0.1s ease-out forwards reverse;
+    
+}
+
+
+
+.squareback1{
+    
+    transform:rotateY(90deg);
+
+}
+
+
+.squarefront1{
+   
+    position: absolute;
+    
+    
+}
+
+.cards ul:hover div.squarefront1{
+    
+     animation:twirl 0.1s ease-in forwards;
+    
+    
+}
+
+
+
+
+.cards ul:hover div.squareback1{
+    
+    animation:twirl 0.1s 0.1s ease-out forwards reverse;
+    
+}
+
+
+
+.squareback2{
+    
+    transform:rotateY(90deg);
+
+}
+
+
+.squarefront2{
+   
+    position: absolute;
+    
+    
+}
+
+.cards ul:hover div.squarefront2{
+    
+     animation:twirl 0.1s ease-in forwards;
+    
+    
+}
+
+
+
+
+.cards ul:hover div.squareback2{
+    
+    animation:twirl 0.1s 0.1s ease-out forwards reverse;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ /*
+
+
+
+.squarefront3{
+   
+    position: absolute;
+    
+}
+
+
+.squareback3{
+    
+    transform:rotateY(90deg);
+
+}
+
+
+
+@keyframes spin{
+    
+    0%{transform: rotateY(0deg)}
+    100%{transform: rotateY(90deg)}
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

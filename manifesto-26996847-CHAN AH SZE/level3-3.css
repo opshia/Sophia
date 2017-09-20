@@ -1,0 +1,222 @@
+#I{
+    
+    
+    border:5px solid red;
+    width:50px;
+    height:80px;
+    padding-left:40px;
+    margin-left: 40px;
+   
+    
+}
+
+
+#do{
+    
+    
+    border:5px solid red;
+    width:50px;
+    height:80px;
+    padding-left:40px;
+    margin-left: 160px;
+    margin-top: -90px;
+    
+      
+}
+
+
+
+#not{
+    
+    
+    border:5px solid red;
+    width:50px;
+    height:80px;
+    padding-left:40px;
+    margin-left: 280px;
+    margin-top: -90px;
+    
+      
+}
+
+#trust{
+    
+    
+    border:5px solid red;
+    width:80px;
+    height:80px;
+    padding-left:10px;
+    margin-left: 400px;
+    margin-top: -90px;
+    
+      
+}
+
+
+#people{
+    
+    
+    border:5px solid red;
+    width:100px;
+    height:80px;
+    padding-left:10px;
+    margin-left: 520px;
+    margin-top: -90px;
+    
+      
+}
+
+
+#who{
+    
+    
+    border:5px solid red;
+    width:80px;
+    height:80px;
+    padding-left:10px;
+    margin-left: 660px;
+    margin-top: -90px;
+    
+      
+}
+
+
+#are{
+    
+    
+    border:5px solid red;
+    width:70px;
+    height:80px;
+    padding-left:20px;
+    margin-left: 780px;
+    margin-top: -90px;
+    
+      
+}
+
+
+#very{
+    
+    
+    border:5px solid red;
+    width:80px;
+    height:80px;
+    padding-left:10px;
+    margin-left: 900px;
+    margin-top: -90px;
+    
+      
+}
+
+
+
+
+#articulate{
+    
+    
+    border:5px solid red;
+    width:140px;
+    height:80px;
+    padding-left:10px;
+    margin-left:1020px;
+    margin-top: -90px;
+    
+      
+}
+
+
+.twoline{
+    
+    margin-left:120px;
+    position: absolute;
+    top:250px;
+    
+       
+}
+
+
+
+.threeline{
+    
+    margin-left:360px;
+    position: absolute;
+    top:420px;  
+    
+}
+
+
+
+.fourline{
+    
+    margin-left:720px;
+    position: absolute;
+    top:590px;  
+    
+      
+}
+
+
+
+
+.fiveline{
+    
+    margin-left:1200px;
+    position: absolute;
+    top:770px;  
+    
+    
+}
+
+
+
+
+.sixline{
+    
+    margin-left:1820px;
+    position: absolute;
+    top:950px;  
+    
+    
+}
+
+
+.sevenline{
+    
+    margin-left:2560px;
+    position: absolute;
+    top:1140px;  
+    
+    
+}
+
+
+
+
+
+.eightline{
+    
+    margin-left:3420px;
+    position: absolute;
+    top:1340px;  
+    
+    
+}
+
+
+
+.nineline{
+    
+    margin-left:4400px;
+    position: absolute;
+    top:1540px; 
+    
+    
+}
+
+
+
+.space{
+    
+    margin-top:1540px; 
+  
+}

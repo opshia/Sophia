@@ -1,0 +1,209 @@
+
+
+#one{
+    
+    font-size:20px;
+    color:darkslateblue;
+    margin-left:0px;
+    position:absolute;
+    top: 25px;
+    
+
+}
+
+
+.headline{
+    
+    
+    font-size:15px;
+    margin-left:310px;
+    position:absolute;
+    top: 50px;
+     
+}
+
+
+#two{
+    
+    font-size:20px;
+    color:darkslateblue;
+    margin-left:970px;
+    position:absolute;
+    top: 25px;
+        
+    
+}
+
+
+#background{
+    
+     position:absolute;
+     top: 150px;
+        
+    
+}
+
+
+#pig{
+    
+     position:absolute;
+     top: 200px;
+     animation-name: walk;
+     animation-duration:16s;
+     animation-iteration-count: infinite;
+ 
+}
+
+@keyframes walk{
+    
+    from{ transform: translateX(-50px)}
+    to{ transform: translate(1300px)}
+    
+}
+
+
+#rabbit{
+    
+     position:absolute;
+     top: 500px;
+     margin-left: 1250px;
+     animation-name: jump;
+     animation-duration:6s;
+     animation-iteration-count:1 ;
+     animation-fill-mode:forwards;
+    
+}
+
+
+
+#dog{
+    
+     position:absolute;
+     top:500px;
+     margin-left: 100px;
+       
+       
+    }
+
+
+
+#dogs{
+    
+     position:absolute;
+     top:350px;
+     margin-left: 400px;
+       
+       
+    }
+
+
+
+ #first{
+        
+        position:absolute;
+        top:1100px; 
+        margin-left:350px; 
+        
+        
+    }
+
+
+
+#second{
+    
+        position:absolute;
+        top:1120px; 
+        margin-left:340px; 
+    
+}
+
+
+
+#third{
+    
+        position:absolute;
+        top:1140px; 
+        margin-left:340px; 
+    
+    
+    
+    
+}
+
+
+
+#lineone{
+     
+       position:absolute;
+       top:1130px; 
+       margin-left:0px; 
+     
+}
+
+
+
+#linetwo{
+     
+       position:absolute;
+       top:1130px; 
+       margin-left:900px; 
+       padding-bottom:300px; 
+    
+    
+}
+
+
+
+
+
+
+
+@keyframes jump{  
+    
+           0% {  
+               transform: translate(0px, 0px);  
+           }  
+           10% {  
+               transform: translate(-50px, -20px);  
+           }  
+           20% {  
+               transform: translate(-110px, 0px); 
+
+           }  
+    
+           40% {  
+               transform: translate(-190px, -40px);  
+           }  
+           60% {  
+               transform: translate(-240px, 0px);  
+           }  
+           80% {  
+               transform: translate(-300px, -30px); 
+           }
+           90% {  
+               transform: translate(-380px, 0px);  
+           }  
+           95% {  
+               transform: translate(-450px, -40px); 
+           }
+           100% {  
+               transform: translate(-500px, 0px); 
+
+           }
+    
+    
+    
+ 
+    
+    
+  
+        
+        
+    
+   
+    
+    
+    
+    
+    
+
